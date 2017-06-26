@@ -1,0 +1,35 @@
+body {
+	font-family: "Lato", sans-serif;
+	color: #2d3c49;
+	font-weight: 300;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+.text-light {
+	color: #7d97ad;
+}
+
+.title-large {
+	font-size: 65px;
+}
+
+.logo-position {
+	margin-top: 30px;
+}
+
+.hr-decoration {
+	border: 0;
+	border-top: 1px solid #7d97ad;
+	border-bottom: 1px solid #7d97ad;
+}
+
+.text-indentation {
+	text-indent: 10px;
+}
+
+.word-space {
+	word-spacing: 4px;
+}
